@@ -13,7 +13,7 @@ A professional, fully-featured **Command Line To-Do Manager** built using **Pyth
 ✔ Beautiful PDF generation  
 ✔ Clean code architecture  
 
-## Project Structure
+## 📁 Project Structure
 ```bash
 📁 your-repository/
 │── todo.py
@@ -75,7 +75,7 @@ On each start:
 ### 📤 Export System (with Timestamp)
 Exports stored in: exports folder in PDF / CSV Formats
 
-### Time and date
+### 📅Time and date
 
 Uses timestamp format: YYYY-MM-DD_HH-MM-SS
 
@@ -113,7 +113,7 @@ pip install fpdf
 python todo.py
 ```
 
-### Technology Used
+### 💻 Technology Used
 - Python 3.x
 - CSV file handling
 - JSON for subtasks

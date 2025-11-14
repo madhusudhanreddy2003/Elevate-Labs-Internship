@@ -149,11 +149,7 @@ This CLI app shows your knowledge in:
 
 ### 📜 License
 
-<<<<<<< HEAD
 This project is an Open Source — use it freely!
-=======
-This project is Open Source — use it freely!
->>>>>>> e78fc95d4e17d21317b89da2ab7d36d160eb4fd7
 
 ### ScreenShots
 <img width="1920" height="1020" alt="Screenshot 2025-11-14 113538" src="https://github.com/user-attachments/assets/60116407-7a45-4ec7-b99d-9e6f0ac04922" />

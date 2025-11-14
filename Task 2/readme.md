@@ -1,4 +1,4 @@
-# 📝 Madhu's Advanced To-Do List (CLI App)
+# 📝 Advanced To-Do List (CLI App)
 
 A professional, fully-featured **Command Line To-Do Manager** built using **Python** with:
 
@@ -13,8 +13,8 @@ A professional, fully-featured **Command Line To-Do Manager** built using **Pyth
 ✔ Beautiful PDF generation  
 ✔ Clean code architecture  
 
-## Project Structure
-
+## 📁 Project Structure
+```bash
 📁 your-repository/
 │── todo.py
 │── tasks.csv              (auto created)
@@ -22,7 +22,7 @@ A professional, fully-featured **Command Line To-Do Manager** built using **Pyth
 │     ├── tasks_export_<timestamp>.pdf
 │     └── tasks_export_<timestamp>.csv
 │── README.md
-
+```
 
 ---
 
@@ -75,7 +75,7 @@ On each start:
 ### 📤 Export System (with Timestamp)
 Exports stored in: exports folder in PDF / CSV Formats
 
-### Time and date
+### 📅Time and date
 
 Uses timestamp format: YYYY-MM-DD_HH-MM-SS
 
@@ -100,50 +100,59 @@ All fields including subtasks stored as JSON.
 
 ### ♻ Auto Cleanup System
 Automatically deletes old exports older than: 7 days
-
+```bash
 AUTO_DELETE_DAYS = 7
-
+```
 ### Install Python Dependencies
+```bash
 pip install fpdf
+```
 
 ### Running the App
+```bash
 python todo.py
+```
 
-### Technology Used
-. Python 3.x
-. CSV file handling
-. JSON for subtasks
-. FPDF for PDF generation
-. OS & DateTime modules
-. CLI-based UI
+### 💻 Technology Used
+- Python 3.x
+- CSV file handling
+- JSON for subtasks
+- FPDF for PDF generation
+- OS & DateTime modules
+- CLI-based UI
 
 ### 🚀 Why This Project is Impressive
 
 This CLI app shows your knowledge in:
 
-. Data persistence
-. File handling
-. Clean code structuring
-. Export handling
-. PDF generation
-. User interface in CLI
-. Automation concepts
-. Real-world features
+- Data persistence
+- File handling
+- Clean code structuring
+- Export handling
+- PDF generation
+- User interface in CLI
+- Automation concepts
+- Real-world features
 
 ###  👨‍💻 Author
-Kethari Madhu Sudhan Reddy
-Python Developer • ML Enthusiast •  Full Stack Developer • IT Enthusiast
+- Kethari Madhu Sudhan Reddy
+- Python Developer • ML Enthusiast •  Full Stack Developer • IT Enthusiast
 
 ### ⭐ Contributing
 
-Contributions are welcome!
-Open PRs for features like:
-
-. GUI version (Tkinter / PyQt)
-. FastAPI backend
-. Voice command support
-. Cloud sync (Google Sheets / Firebase)
+- Contributions are welcome!
+- Open PRs for features like:
+   - GUI version (Tkinter / PyQt)
+   - FastAPI backend
+   - Voice command support
+   - Cloud sync (Google Sheets / Firebase)
 
 ### 📜 License
 
 This project is Open Source — use it freely!
+
+### ScreenShots
+<img width="1920" height="1020" alt="Screenshot 2025-11-14 113538" src="https://github.com/user-attachments/assets/60116407-7a45-4ec7-b99d-9e6f0ac04922" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-14 113644" src="https://github.com/user-attachments/assets/ab6323ed-7c96-4adc-9bc9-f7cf7cc5787f" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-14 113728" src="https://github.com/user-attachments/assets/e18f0d97-4f57-4ce6-938f-6e04b6248e92" />
+

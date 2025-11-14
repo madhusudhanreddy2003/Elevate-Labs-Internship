@@ -114,39 +114,38 @@ python todo.py
 ```
 
 ### Technology Used
-. Python 3.x
-. CSV file handling
-. JSON for subtasks
-. FPDF for PDF generation
-. OS & DateTime modules
-. CLI-based UI
+- Python 3.x
+- CSV file handling
+- JSON for subtasks
+- FPDF for PDF generation
+- OS & DateTime modules
+- CLI-based UI
 
 ### 🚀 Why This Project is Impressive
 
 This CLI app shows your knowledge in:
 
-. Data persistence
-. File handling
-. Clean code structuring
-. Export handling
-. PDF generation
-. User interface in CLI
-. Automation concepts
-. Real-world features
+- Data persistence
+- File handling
+- Clean code structuring
+- Export handling
+- PDF generation
+- User interface in CLI
+- Automation concepts
+- Real-world features
 
 ###  👨‍💻 Author
-Kethari Madhu Sudhan Reddy
-Python Developer • ML Enthusiast •  Full Stack Developer • IT Enthusiast
+- Kethari Madhu Sudhan Reddy
+- Python Developer • ML Enthusiast •  Full Stack Developer • IT Enthusiast
 
 ### ⭐ Contributing
 
-Contributions are welcome!
-Open PRs for features like:
-
-. GUI version (Tkinter / PyQt)
-. FastAPI backend
-. Voice command support
-. Cloud sync (Google Sheets / Firebase)
+- Contributions are welcome!
+- Open PRs for features like:
+   - GUI version (Tkinter / PyQt)
+   - FastAPI backend
+   - Voice command support
+   - Cloud sync (Google Sheets / Firebase)
 
 ### 📜 License
 

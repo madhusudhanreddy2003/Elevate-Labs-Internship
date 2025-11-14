@@ -1,0 +1,6 @@
+id,title,done,due,priority,category,starred,subtasks_json,notes
+1,Exercise,1,no due,1,Personal,1,"[{""title"": ""walking"", ""done"": false}, {""title"": ""jogging"", ""done"": false}, {""title"": ""streches"", ""done"": false}]",go for a jog to park at 7 am
+2,Groceries,1,no due,2,Personal,1,"[{""title"": ""Buy Eggs"", ""done"": false}, {""title"": ""Buy Bread"", ""done"": false}, {""title"": ""Buy Jam"", ""done"": false}, {""title"": ""Buy Aloo Bujiya"", ""done"": false}]",Go to D mart
+3,Coding Practice,0,no due,1,Study,1,"[{""title"": ""Python - Loops"", ""done"": false}, {""title"": ""SQL - Joins"", ""done"": false}]",practice coding and prepare interview questions
+4,Clean Book Shelf,0,no due,4,Others,0,[],arrange all the books in order and clean the shelf
+5,Meet a Friend,0,no due,3,Work,0,[],gather information on local bussinesses

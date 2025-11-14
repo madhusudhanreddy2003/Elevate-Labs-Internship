@@ -150,3 +150,9 @@ This CLI app shows your knowledge in:
 ### 📜 License
 
 This project is Open Source — use it freely!
+
+### ScreenShots
+<img width="1920" height="1020" alt="Screenshot 2025-11-14 113538" src="https://github.com/user-attachments/assets/60116407-7a45-4ec7-b99d-9e6f0ac04922" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-14 113644" src="https://github.com/user-attachments/assets/ab6323ed-7c96-4adc-9bc9-f7cf7cc5787f" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-14 113728" src="https://github.com/user-attachments/assets/e18f0d97-4f57-4ce6-938f-6e04b6248e92" />
+

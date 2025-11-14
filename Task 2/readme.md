@@ -1,4 +1,4 @@
-# 📝 Madhu's Advanced To-Do List (CLI App)
+# 📝 Advanced To-Do List (CLI App)
 
 A professional, fully-featured **Command Line To-Do Manager** built using **Python** with:
 

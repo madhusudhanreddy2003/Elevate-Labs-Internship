@@ -14,7 +14,7 @@ A professional, fully-featured **Command Line To-Do Manager** built using **Pyth
 ✔ Clean code architecture  
 
 ## Project Structure
-
+```bash
 📁 your-repository/
 │── todo.py
 │── tasks.csv              (auto created)
@@ -22,7 +22,7 @@ A professional, fully-featured **Command Line To-Do Manager** built using **Pyth
 │     ├── tasks_export_<timestamp>.pdf
 │     └── tasks_export_<timestamp>.csv
 │── README.md
-
+```
 
 ---
 
@@ -100,14 +100,18 @@ All fields including subtasks stored as JSON.
 
 ### ♻ Auto Cleanup System
 Automatically deletes old exports older than: 7 days
-
+```bash
 AUTO_DELETE_DAYS = 7
-
+```
 ### Install Python Dependencies
+```bash
 pip install fpdf
+```
 
 ### Running the App
+```bash
 python todo.py
+```
 
 ### Technology Used
 . Python 3.x

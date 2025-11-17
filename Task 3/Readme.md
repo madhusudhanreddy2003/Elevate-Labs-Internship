@@ -145,3 +145,7 @@ Contact me : maddoxer143@gmail.com
 ### 📜 License
 This project is Open Source.<br>
 Feel free to modify, enhance, or reuse it.
+
+### ScreenShots
+![alt text](<Screenshot 2025-11-17 181050.png>)
+![alt text](<Screenshot 2025-11-17 181246.png>)

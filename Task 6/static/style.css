@@ -1,0 +1,224 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #0b1120;
+    color: #e5e7eb;
+    line-height: 1.6;
+}
+
+/* Navbar */
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #020617;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #1f2937;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.accent {
+    color: #38bdf8;
+}
+
+.nav-right a {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 0.95rem;
+}
+
+.nav-right a:hover {
+    color: #38bdf8;
+}
+
+/* Hero Section */
+.hero {
+    padding: 4rem 2rem;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-text {
+    max-width: 700px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    color: #9ca3af;
+    margin-bottom: 0.75rem;
+}
+
+.tagline {
+    color: #d1d5db;
+    margin-bottom: 1.5rem;
+}
+
+.btn-primary,
+.btn-secondary {
+    display: inline-block;
+    padding: 0.6rem 1.3rem;
+    margin: 0.25rem;
+    border-radius: 999px;
+    border: 1px solid #38bdf8;
+    text-decoration: none;
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #38bdf8;
+    color: #020617;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: #e5e7eb;
+}
+
+.btn-primary:hover {
+    background-color: #0ea5e9;
+}
+
+.btn-secondary:hover {
+    background-color: #111827;
+}
+
+/* Sections */
+.section {
+    padding: 3rem 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.section-alt {
+    background-color: #020617;
+}
+
+.section h2 {
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #1f2937;
+    padding-bottom: 0.5rem;
+}
+
+/* Skills */
+.chip-container {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.chip {
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    background-color: #111827;
+    border: 1px solid #1f2937;
+    font-size: 0.85rem;
+}
+
+/* Projects */
+.projects-grid {
+    margin-top: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 1rem;
+}
+
+.project-card {
+    background-color: #020617;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    border: 1px solid #1f2937;
+}
+
+.project-card h3 {
+    margin-bottom: 0.5rem;
+}
+
+.tech-stack {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: #9ca3af;
+}
+
+/* Contact Form */
+.contact-form {
+    margin-top: 1rem;
+    max-width: 500px;
+}
+
+.form-group {
+    margin-bottom: 0.9rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-size: 0.9rem;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.55rem;
+    border-radius: 0.5rem;
+    border: 1px solid #1f2937;
+    background-color: #020617;
+    color: #e5e7eb;
+}
+
+/* Flash messages */
+.flash-container {
+    max-width: 900px;
+    margin: 0.5rem auto 0;
+    padding: 0 2rem;
+}
+
+.flash {
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.flash-success {
+    background-color: #064e3b;
+    color: #bbf7d0;
+}
+
+.flash-error {
+    background-color: #7f1d1d;
+    color: #fecaca;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.85rem;
+    color: #6b7280;
+    border-top: 1px solid #1f2937;
+    margin-top: 2rem;
+}

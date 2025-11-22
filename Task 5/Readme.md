@@ -73,5 +73,5 @@ You can extend the project with:
 
 ### 👨‍💻 Author
 Kethari Madhu Sudhan Reddy<br>
-Python Developer • Data Analyst • AIML Engineer
+Python Developer • Data Analyst • AIML Engineer<br>
 maddoxer143@gmail.com

@@ -1,5 +1,5 @@
 ## 🖼️ Task 7 – Image Resizer & Converter (CLI Tool)
-Automated Batch Image Processing using Python & Pillow<br>
+### Automated Batch Image Processing using Python & Pillow<br>
 This project is part of the Elevate Labs Internship – Task 7, where the goal is to build a <b>Python-based image processing tool</b> that resizes and converts multiple images automatically.<br>
 This upgraded version includes:
 - Batch resizing for all images in a folder

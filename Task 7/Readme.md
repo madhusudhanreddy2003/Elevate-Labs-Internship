@@ -56,10 +56,9 @@ Supports:
 - BMP
 <br>
 Example:
+
 ```bash
-
 -f PNG
-
 ```
 
 ### Quality Control

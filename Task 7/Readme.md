@@ -56,7 +56,7 @@ Supports:
 - BMP
 <br>
 Example:
-
+<br>
 ```bash
 -f PNG
 ```

@@ -3,11 +3,11 @@ _A Simple Console Chatbot Using Python, if-else, and Sympy_
 
 This project is part of the **Elevate Labs Internship – Task 8**, where the goal is to build a **rule-based chatbot** using Python and basic `if-elif-else` logic.
 
-In this upgraded version, the chatbot:
+This chatbot:
 
 - Acts like a simple conversational bot  
 - Can **evaluate math expressions** (works like a mini calculator)  
-- Uses **random default responses** (Option 4) when it doesn’t understand  
+- Uses **random default responses** when it doesn’t understand  
 - Runs in the terminal using a loop  
 
 ---
@@ -33,7 +33,7 @@ If the user types a **pure math expression**, the bot tries to evaluate it using
 
 Examples:
 
-```text
+```bash
 You: 2+3*5
 🤖 Chatbot: The result is 17
 
@@ -42,6 +42,9 @@ You: (10/3)^2
 
 You: can you solve 77*77+99-3/5 ?
 🤖 Chatbot: The result is 6027.40000000000
+```
+
+---
 
 It uses:
 ```bash
@@ -152,3 +155,6 @@ maddoxer143@gmail.com
 ### 📜 License
 
 This project is an Open Source — use it freely!
+
+### Screenshot - Demo
+![alt text](<Screenshot 2025-11-25 132659.png>)

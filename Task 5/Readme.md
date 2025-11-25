@@ -52,7 +52,7 @@ Then run cells from top to bottom.
 - Visualized using simple charts
 
 ### 🎯 Outcome
-By completing this task, you gain:
+By completing this task, I gained:
 - Core Pandas data analysis skills
 - Basic data visualization skills
 - Hands-on experience with Jupyter Notebook

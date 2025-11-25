@@ -99,6 +99,18 @@ Important: Use Postman Desktop App (not Postman Web) so it can reach 127.0.0.1.
   - Paste the JSON body (same as examples above).
 - Click Send and inspect the response JSON and status code.
 
+### 🎯 Learning Outcomes
+From This Task I gained:
+- Knowledge on Testing API requests
+- Flask Framework
+- Postman API agent handling
+- GET Method
+- PUT MEthod
+- POST Method
+- DELETE Method
+- JSON File Memory
+
+
 ###  👨‍💻 Author
 - Kethari Madhu Sudhan Reddy
 - Python Developer • ML Enthusiast •  Full Stack Developer • IT Enthusiast

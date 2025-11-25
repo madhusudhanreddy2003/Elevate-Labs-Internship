@@ -66,7 +66,7 @@ http://127.0.0.1:5000/
 ```
 
 ### ✨ Outcome
-By completing this task, you demonstrated:
+By completing this task, I demonstrated:
 - Flask routing
 - Templating (Jinja)
 - Form handling

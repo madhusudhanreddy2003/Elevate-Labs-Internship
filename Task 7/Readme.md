@@ -116,7 +116,7 @@ python image_tool.py --rename-prefix photo
 
 ### 🎯 Outcome
 
-By completing this task, you gained experience with:
+By completing this task, I gained experience with:
 - CLI app development
 - Image processing with Pillow
 - Argument parsing using argparse

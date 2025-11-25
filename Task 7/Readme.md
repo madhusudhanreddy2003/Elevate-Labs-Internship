@@ -57,7 +57,9 @@ Supports:
 <br>
 Example:
 ```bash
+
 -f PNG
+
 ```
 
 ### Quality Control

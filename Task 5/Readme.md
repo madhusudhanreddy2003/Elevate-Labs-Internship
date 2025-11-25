@@ -75,3 +75,7 @@ You can extend the project with:
 Kethari Madhu Sudhan Reddy<br>
 Python Developer • Data Analyst • AIML Engineer<br>
 maddoxer143@gmail.com
+
+### 📜 License
+
+This project is an Open Source — use it freely!
